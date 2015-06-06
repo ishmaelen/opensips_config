@@ -31,7 +31,7 @@ DBNAME=project2
 DBRWUSER=root
 
 ## password for database read/write user
-DBRWPW="121317n"
+DBRWPW="myshit"
 
 ## database super user (for ORACLE this is 'scheme-creator' user)
 # DBROOTUSER="root"
